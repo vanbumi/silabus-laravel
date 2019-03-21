@@ -71,3 +71,14 @@
 * 4.16 Sending Email.
 
 ### BAGIAN 5 – TEST UNTUK MENDAPAT CERTIFICATE
+
+<br><br><br><br>
+
+## MedioCademy
+
+Form pendaftaran kelas: bit.ly/kelas-php-laravel
+
+Website: mediocademy.com
+
+Contact WA: 0859-5651-2111
+
